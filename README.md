@@ -4,7 +4,7 @@
 
 - 📫 How to reach me *fatihatuzjohora143@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oTGujjiuwF4O9Ok1rKrIv598nItsQhQH/view](https://drive.google.com/file/d/1oTGujjiuwF4O9Ok1rKrIv598nItsQhQH/view)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1HS0yrlhsFgt3xYAfIwuVakxJyvprDuLopl_H9tCb0lc/edit?usp=sharing](https://docs.google.com/document/d/1HS0yrlhsFgt3xYAfIwuVakxJyvprDuLopl_H9tCb0lc/edit?usp=sharing)
 
 - ⚡ Fun fact *I think I am Crazy*
   <p> As a front-end developers create user interfaces using HTML, CSS, and JavaScript and React-JS also Nect-JS to ensure seamless and  engaging web experiences</p>
