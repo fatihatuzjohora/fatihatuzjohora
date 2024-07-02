@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Fatema Tuz Johora</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahidul-islam-siam" alt="nahidul-islam-siam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahidul-islam-siam" /></a> </p>
 
 - 📫 How to reach me *fatihatuzjohora143@gmail.com*
 
