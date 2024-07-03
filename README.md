@@ -76,9 +76,9 @@
 ## 📫 Get in Touch
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rbimran0) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imtiazimran080) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-hossain-593754166/) 
+[![Facebook](https://www.facebook.com/profile.php?id=61554538131887&mibextid=ZbWKwL) 
+[![Instagram](https://www.instagram.com/ftj_fatiha?utm_source=qr&igsh=MWd4MGo4cno3MDVmag==) 
+[![LinkedIn](https://www.linkedin.com/in/fatema-tuz-johora-fatiha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - 🌐 Portfolio: [https://portfoliofatematuzjohora.netlify.app](https://portfoliofatematuzjohora.netlify.app)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
