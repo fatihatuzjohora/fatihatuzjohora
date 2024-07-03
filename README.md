@@ -66,12 +66,16 @@
 ![Fatiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihatuzjohora&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihatuzjohora&layout=compact&theme=radical)
+</div>
 
 ## 🏆 Achievements
 
 - Built several full-stack web applications
 - Contributed to open-source projects
 - Continuously learning and improving my skills
+
+<div align="center">
+
 
 ## 📫 Get in Touch
 
