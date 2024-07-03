@@ -27,6 +27,7 @@
 
 
 <h3 align="left">My Absolute Favourites:</h3>
+<h3 align="center">My Absolute Favourites:</h3>
 
 - I love exploring new technologies & building cool stuff.
 - Reading, writing & watching tech stuff where possible.
