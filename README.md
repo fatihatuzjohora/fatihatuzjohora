@@ -5,6 +5,8 @@
 
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate web developer skilled in the MERN stack and beyond. I love creating beautiful, dynamic websites and applications.</h3>
 
+<p align="left"> <a href="https://github.com/fatihatuzjohora/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihatuzjohora" alt="fatihatuzjohora" /></a> </p>
+
 - 📫 How to reach me *fatihatuzjohora143@gmail.com*
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1HS0yrlhsFgt3xYAfIwuVakxJyvprDuLopl_H9tCb0lc/edit?usp=sharing](https://docs.google.com/document/d/1HS0yrlhsFgt3xYAfIwuVakxJyvprDuLopl_H9tCb0lc/edit?usp=sharing)
