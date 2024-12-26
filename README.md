@@ -88,7 +88,7 @@
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
 
-![Profile Banner](https://i.ibb.co/888m2rY/fatiha.png)
+![Profile Banner]()
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
